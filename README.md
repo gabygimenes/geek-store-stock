@@ -1,0 +1,1 @@
+O cliente da geek_store é o Júnior, ele é um adulto que é nerd. e gostaria de criar um site para suas engenhocas.
